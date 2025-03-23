@@ -47,3 +47,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+## 增加了什么？
+在上面的基础上我将rttm生成的图像合并到一张html中，并且不限制操作系统，已经在windows平台上进行了测试，只需要运行rttm_viewer.py程序即可。
+程序会提示需要选择的rttm文件，最后会生成一个combined_rttm_plots.html的网页，打开即可
